@@ -1,4 +1,4 @@
-Após clonar o projeto, basta dar um 'npm install' para baixar todas as dependência necessárias.
+Após clonar o projeto, basta dar um 'npm install' para baixar todas as dependências necessárias.
 
 OBS: Precisa ter o expo instalado globalmente em sua máquina.
 
